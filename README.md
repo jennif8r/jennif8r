@@ -1,8 +1,13 @@
+
 ### Olá! sou Jennifer Lara 👋🏽
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E2E2E&vCenter=true&lines=Ol%C3%A1%2C+Mundo!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jenniferlara.tech/)     
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-de-lara/)
+   
+[![Jenniferlara.Tech](https://img.shields.io/badge/Portfolio-Jenniferlara.Tech-blue?style=for-the-badge&logo=visual-studio-code)](https://jenniferlara.tech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20de%20Lara-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-de-lara/)
+
+
+
+
 
 
 ## Atividade no GitHub
