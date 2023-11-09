@@ -1,8 +1,12 @@
 
-### Olá! sou Jennifer Lara 👋🏽
+## Olá, pessoal! Eu sou Jennifer Lara 👋🏽
+
+ <img src="https://simpleicons.org/icons/darkreader.svg" alt="Dark Reader Logo" width="50"> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2E2E2E&vCenter=true&lines=Ol%C3%A1%2C+Mundo!;Bem-vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 
-   
+Seja bem-vindo ao meu cantinho no GitHub! Estou animada para compartilhar meus projetos e explorar o mundo da programação junto com vocês. Vamos criar algo incrível juntos! 💻✨
+
 [![Jenniferlara.Tech](https://img.shields.io/badge/Portfolio-Jenniferlara.Tech-blue?style=for-the-badge&logo=visual-studio-code)](https://jenniferlara.tech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20de%20Lara-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-de-lara/)
 
 
