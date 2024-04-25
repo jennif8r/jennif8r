@@ -7,7 +7,7 @@
 
 Seja bem-vindo ao meu cantinho no GitHub! Estou animada para compartilhar meus projetos e explorar o mundo da programação junto com vocês. Vamos criar algo incrível juntos! 💻✨
 
-[![Jenniferlara.Tech](https://img.shields.io/badge/Portfolio-Jenniferlara.Tech-blue?style=for-the-badge&logo=visual-studio-code)](https://jenniferlara.tech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20de%20Lara-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-de-lara/)
+[![Jenniferlara.Tech](https://img.shields.io/badge/Portfolio-Jenniferlara.Tech-blue?style=for-the-badge&logo=visual-studio-code)]([https://jenniferlara.tech/](https://jennif8r.github.io/MySite/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20de%20Lara-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-de-lara/)
 
 
 
